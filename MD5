@@ -1,5 +1,11 @@
-1aa1b9b364faf6b1cc67f1b7cc4144a4 *DESCRIPTION
+d85ce8379659a42718df73bb8f7c82c9 *DESCRIPTION
 8ea5edf5e14764fe2edadcc6f45a5629 *LICENSE
-ec3810aa35ee7eed9448e9c8e15a09b4 *NAMESPACE
-6be78c34d2cdcc7120c8e64fa51d11c6 *R/Massign.R
+a75b41e852bfb648d4d7c6d71d84e95e *NAMESPACE
+921301b3cb1c1e250297ad3c552435b8 *R/Massign.R
+4e00f3d8fb3e18e9458293b8787a7310 *R/Multiplipe.R
 ad11fae91ba05bb82bbe3030d23de717 *man/Massign.Rd
+d87adde127d2d355e7b7404d97a1e75c *man/Multiplipe.Rd
+e54978c3dec2cf2f58575a27469edbaa *tests/testthat.R
+28121e40c07e744835964252ef6b6dae *tests/testthat/test_environ.R
+bd6292d91a180c24c7777a4117831d5b *tests/testthat/test_massign.R
+cd834c5a30bb96120e68f7e1928f67f6 *tests/testthat/test_multiplipe.R
